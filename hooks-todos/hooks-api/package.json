@@ -4,7 +4,7 @@
   "repository": {},
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.9.4"
+    "json-server": "^1.0.0-beta.15"
   },
   "scripts": {
     "start": "json-server data.json"
